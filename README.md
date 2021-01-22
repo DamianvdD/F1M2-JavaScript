@@ -11,3 +11,5 @@ Les 3: http://30921.hosts1.ma-cloud.nl/JavaScript-Achievements/javascript3/index
 Les 4: http://30921.hosts1.ma-cloud.nl/JavaScript-Achievements/javascript4/index.html
 
 Les 5: http://30921.hosts1.ma-cloud.nl/JavaScript-Achievements/javascript5/index.html
+
+Les 6: http://30921.hosts1.ma-cloud.nl/JavaScript-Achievements/javascript6/sensors.html
